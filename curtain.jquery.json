@@ -1,0 +1,26 @@
+{
+    "name": "curtain",
+    "title": "Curtain.js",
+    "description": "Scrolls up your curtain!",
+    "keywords": [
+        "ui",
+        "css",
+        "scroll",
+        "curtain",
+        "transform"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Yannick Albert",
+        "email": "mail@yckart.com",
+        "url": "https://github.com/yckart"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://yckart.com/mit/"
+    }],
+    "homepage": "http://yckart.github.io/Curtain.js",
+    "demo": "http://yckart.github.io/Curtain.js",
+    "docs": "https://github.com/yckart/Curtain.js",
+    "bugs": "https://github.com/yckart/Curtain.js/issues"
+}
